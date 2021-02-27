@@ -1,0 +1,14 @@
+@tailwind base;
+
+.bg-primary {
+	--bg-opacity: 1;
+	background-color: #76b2c0;
+	background-color: rgba(118, 178, 192, var(--bg-opacity));
+}
+
+.text-primary {
+	color: #76b2c0;
+}
+
+@tailwind components;
+@tailwind utilities;
