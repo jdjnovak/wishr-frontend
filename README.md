@@ -1,4 +1,7 @@
-# wishr-frontend
+# Wishr
+Wishr is a small full-stack project I am working on. Its a shareable wishlist web-app (like a cross between a wedding registry and Pintrest board).  
+
+The stack is a VueJS frontend (this repository) and a REST API built with TypeORM (see [here](https://github.com/jdjnovak/wishr-backend.git))  
 
 ## Project setup
 ```
