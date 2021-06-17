@@ -1,4 +1,4 @@
-![Wishr Logo](src/assets/wishr_logo_6.png =506x)  
+<img src="src/assets/wishr_logo_6.png" alt="Wishr Logo" width="506"/>  
 # Wishr
 Wishr is a small full-stack project I am working on. Its a shareable wishlist web-app (like a cross between a wedding registry and Pintrest board).  
 
