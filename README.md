@@ -1,4 +1,5 @@
-<img src="src/assets/wishr_logo_6.png" alt="Wishr Logo" width="506"/>  
+<div align="center"><img src="src/assets/wishr_logo_6.png" alt="Wishr Logo" width="506"/></div>  
+
 # Wishr
 Wishr is a small full-stack project I am working on. Its a shareable wishlist web-app (like a cross between a wedding registry and Pintrest board).  
 
